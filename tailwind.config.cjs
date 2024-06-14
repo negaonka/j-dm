@@ -22,7 +22,7 @@ export default {
         french: "#b5b5ba",
         night: "#141414",
         jet: "#292929",
-        jetLight: "#333333",
+        jetLight: "#4A4A4A",
         jetGray: "#6d6d74",
         richBlack: "#2e2e2e",
         eerieBlack: "#00376B",

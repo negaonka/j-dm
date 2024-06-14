@@ -6,8 +6,6 @@ import worldmap from "./backgrounds/world-map.png";
 import logo from "./logo/jiten-ghadigaonkar-logo.png";
 import logotext from "./logo/jbg-logo.png";
 
-import shaq from "./personal/shaq.png";
-
 import backend from "./icons/backend.png";
 import ux from "./icons/ux.png";
 import frontend from "./icons/frontend.png";
@@ -49,7 +47,12 @@ import math from "./projects/math-magicians.png";
 import movie from "./projects/movie-metro.png";
 import nyeusi from "./projects/nyeusi.png";
 import space from "./projects/space-hub.png";
-import jbgvideo from "./personal/jbg.mp4";
+
+import overview1 from "./overview/overview1.png";
+import overview2 from "./overview/overview2.png";
+import overview3 from "./overview/overview3.png";
+import overview4 from "./overview/overview4.png";
+import overview5 from "./overview/overview5.png";
 
 export {
   bwmap,
@@ -58,7 +61,6 @@ export {
   worldmap,
   logo,
   logotext,
-  shaq,
   backend,
   ux,
   frontend,
@@ -97,5 +99,9 @@ export {
   dcc,
   kelhel,
   microverse,
-  jbgvideo,
+  overview1,
+  overview2,
+  overview3,
+  overview4,
+  overview5,
 };

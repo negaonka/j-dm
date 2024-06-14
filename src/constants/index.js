@@ -27,6 +27,11 @@ import {
   dcc,
   kelhel,
   microverse,
+  overview1,
+  overview2,
+  overview3,
+  overview4,
+  overview5,
 } from "../assets";
 
 export const navLinks = [
@@ -47,19 +52,15 @@ export const navLinks = [
 const services = [
   {
     title: "Frontend Developer",
-    icon: frontend,
+    icon: overview1,
   },
   {
     title: "Backend Developer",
-    icon: backend,
+    icon: overview2,
   },
   {
     title: "UI/UX Design",
-    icon: ux,
-  },
-  {
-    title: "Software Prototyping",
-    icon: prototyping,
+    icon: overview3,
   },
 ];
 
